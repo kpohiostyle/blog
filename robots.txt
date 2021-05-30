@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://kpohiostyle.github.io/blogsitemap.xml
